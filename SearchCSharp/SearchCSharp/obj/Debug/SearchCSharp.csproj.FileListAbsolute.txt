@@ -1,0 +1,6 @@
+c:\users\vika\documents\visual studio 2013\Projects\SearchCSharp\SearchCSharp\bin\Debug\SearchCSharp.exe.config
+C:\Users\vika\documents\visual studio 2013\Projects\SearchCSharp\SearchCSharp\obj\Debug\SearchCSharp.csprojResolveAssemblyReference.cache
+C:\Users\vika\documents\visual studio 2013\Projects\SearchCSharp\SearchCSharp\bin\Debug\SearchCSharp.exe
+C:\Users\vika\documents\visual studio 2013\Projects\SearchCSharp\SearchCSharp\bin\Debug\SearchCSharp.pdb
+C:\Users\vika\documents\visual studio 2013\Projects\SearchCSharp\SearchCSharp\obj\Debug\SearchCSharp.exe
+C:\Users\vika\documents\visual studio 2013\Projects\SearchCSharp\SearchCSharp\obj\Debug\SearchCSharp.pdb

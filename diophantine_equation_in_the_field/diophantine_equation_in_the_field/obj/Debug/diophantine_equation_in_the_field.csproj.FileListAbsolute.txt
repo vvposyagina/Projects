@@ -1,0 +1,6 @@
+c:\users\vika\documents\visual studio 2013\Projects\diophantine_equation_in_the_field\diophantine_equation_in_the_field\bin\Debug\diophantine_equation_in_the_field.exe.config
+c:\users\vika\documents\visual studio 2013\Projects\diophantine_equation_in_the_field\diophantine_equation_in_the_field\bin\Debug\diophantine_equation_in_the_field.exe
+c:\users\vika\documents\visual studio 2013\Projects\diophantine_equation_in_the_field\diophantine_equation_in_the_field\bin\Debug\diophantine_equation_in_the_field.pdb
+c:\users\vika\documents\visual studio 2013\Projects\diophantine_equation_in_the_field\diophantine_equation_in_the_field\obj\Debug\diophantine_equation_in_the_field.csprojResolveAssemblyReference.cache
+c:\users\vika\documents\visual studio 2013\Projects\diophantine_equation_in_the_field\diophantine_equation_in_the_field\obj\Debug\diophantine_equation_in_the_field.exe
+c:\users\vika\documents\visual studio 2013\Projects\diophantine_equation_in_the_field\diophantine_equation_in_the_field\obj\Debug\diophantine_equation_in_the_field.pdb

@@ -1,0 +1,6 @@
+c:\users\vika\documents\visual studio 2013\Projects\GraphCSharp\GraphCSharp\bin\Debug\GraphCSharp.exe.config
+C:\Users\vika\documents\visual studio 2013\Projects\GraphCSharp\GraphCSharp\bin\Debug\GraphCSharp.exe
+C:\Users\vika\documents\visual studio 2013\Projects\GraphCSharp\GraphCSharp\bin\Debug\GraphCSharp.pdb
+C:\Users\vika\documents\visual studio 2013\Projects\GraphCSharp\GraphCSharp\obj\Debug\GraphCSharp.csprojResolveAssemblyReference.cache
+C:\Users\vika\documents\visual studio 2013\Projects\GraphCSharp\GraphCSharp\obj\Debug\GraphCSharp.exe
+C:\Users\vika\documents\visual studio 2013\Projects\GraphCSharp\GraphCSharp\obj\Debug\GraphCSharp.pdb

@@ -1,0 +1,6 @@
+c:\users\vika\documents\visual studio 2013\Projects\BDD_test\BDD_test\bin\Debug\BDD_test.exe.config
+c:\users\vika\documents\visual studio 2013\Projects\BDD_test\BDD_test\bin\Debug\BDD_test.exe
+c:\users\vika\documents\visual studio 2013\Projects\BDD_test\BDD_test\bin\Debug\BDD_test.pdb
+c:\users\vika\documents\visual studio 2013\Projects\BDD_test\BDD_test\obj\Debug\BDD_test.csprojResolveAssemblyReference.cache
+c:\users\vika\documents\visual studio 2013\Projects\BDD_test\BDD_test\obj\Debug\BDD_test.exe
+c:\users\vika\documents\visual studio 2013\Projects\BDD_test\BDD_test\obj\Debug\BDD_test.pdb

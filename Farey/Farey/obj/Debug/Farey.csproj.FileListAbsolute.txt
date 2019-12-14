@@ -1,0 +1,6 @@
+c:\users\vika\documents\visual studio 2013\Projects\Farey\Farey\bin\Debug\Farey.exe.config
+c:\users\vika\documents\visual studio 2013\Projects\Farey\Farey\bin\Debug\Farey.exe
+c:\users\vika\documents\visual studio 2013\Projects\Farey\Farey\bin\Debug\Farey.pdb
+c:\users\vika\documents\visual studio 2013\Projects\Farey\Farey\obj\Debug\Farey.csprojResolveAssemblyReference.cache
+c:\users\vika\documents\visual studio 2013\Projects\Farey\Farey\obj\Debug\Farey.exe
+c:\users\vika\documents\visual studio 2013\Projects\Farey\Farey\obj\Debug\Farey.pdb

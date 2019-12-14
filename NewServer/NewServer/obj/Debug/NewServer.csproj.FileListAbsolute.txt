@@ -1,0 +1,6 @@
+c:\users\vika\documents\visual studio 2013\Projects\NewServer\NewServer\bin\Debug\NewServer.exe.config
+c:\users\vika\documents\visual studio 2013\Projects\NewServer\NewServer\obj\Debug\NewServer.csprojResolveAssemblyReference.cache
+c:\users\vika\documents\visual studio 2013\Projects\NewServer\NewServer\bin\Debug\NewServer.exe
+c:\users\vika\documents\visual studio 2013\Projects\NewServer\NewServer\bin\Debug\NewServer.pdb
+c:\users\vika\documents\visual studio 2013\Projects\NewServer\NewServer\obj\Debug\NewServer.exe
+c:\users\vika\documents\visual studio 2013\Projects\NewServer\NewServer\obj\Debug\NewServer.pdb

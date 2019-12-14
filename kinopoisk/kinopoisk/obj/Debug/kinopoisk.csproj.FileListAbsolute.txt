@@ -1,0 +1,18 @@
+c:\users\vika\documents\visual studio 2013\Projects\kinopoisk\kinopoisk\bin\Debug\kinopoisk.exe.config
+c:\users\vika\documents\visual studio 2013\Projects\kinopoisk\kinopoisk\bin\Debug\kinopoisk.exe
+c:\users\vika\documents\visual studio 2013\Projects\kinopoisk\kinopoisk\bin\Debug\kinopoisk.pdb
+c:\users\vika\documents\visual studio 2013\Projects\kinopoisk\kinopoisk\obj\Debug\kinopoisk.csprojResolveAssemblyReference.cache
+c:\users\vika\documents\visual studio 2013\Projects\kinopoisk\kinopoisk\obj\Debug\kinopoisk.Properties.Resources.resources
+c:\users\vika\documents\visual studio 2013\Projects\kinopoisk\kinopoisk\obj\Debug\kinopoisk.csproj.GenerateResource.Cache
+c:\users\vika\documents\visual studio 2013\Projects\kinopoisk\kinopoisk\obj\Debug\kinopoisk.exe
+c:\users\vika\documents\visual studio 2013\Projects\kinopoisk\kinopoisk\obj\Debug\kinopoisk.pdb
+C:\Users\vika\documents\visual studio 2013\Projects\kinopoisk\kinopoisk\obj\Debug\kinopoisk.MainPage.resources
+C:\Users\vika\documents\visual studio 2013\Projects\kinopoisk\kinopoisk\obj\Debug\kinopoisk.RegistrationForm.resources
+C:\Users\vika\documents\visual studio 2013\Projects\kinopoisk\kinopoisk\obj\Debug\kinopoisk.AutorizationForm.resources
+C:\Users\vika\documents\visual studio 2013\Projects\kinopoisk\kinopoisk\obj\Debug\kinopoisk.FormForFilm.resources
+C:\Users\vika\documents\visual studio 2013\Projects\kinopoisk\kinopoisk\obj\Debug\kinopoisk.FormForUser.resources
+C:\Users\vika\documents\visual studio 2013\Projects\kinopoisk\kinopoisk\obj\Debug\kinopoisk.ChangeDataUser.resources
+C:\Users\vika\documents\visual studio 2013\Projects\kinopoisk\kinopoisk\obj\Debug\kinopoisk.ChangePasswordUser.resources
+E:\Projects\kinopoisk\kinopoisk\bin\Debug\kinopoisk.exe.config
+E:\Projects\kinopoisk\kinopoisk\obj\Debug\kinopoisk.exe
+E:\Projects\kinopoisk\kinopoisk\obj\Debug\kinopoisk.pdb

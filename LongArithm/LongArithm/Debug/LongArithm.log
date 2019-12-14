@@ -1,0 +1,12 @@
+﻿Сборка начата 31.10.2014 1:03:44.
+     1>Проект "C:\Users\vika\documents\visual studio 2013\Projects\LongArithm\LongArithm\LongArithm.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\LongArithm.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt LongArithm.cpp
+         LongArithm.cpp
+     1>c:\users\vika\documents\visual studio 2013\projects\longarithm\longarithm\longarithm.cpp(126): error C2664: "void Addition(int,int,int [],int [],int *[])": невозможно преобразовать аргумент 5 из "int [101]" в "int *[]"
+                 Типы, на которые указывают указатели, не связаны; для преобразования требуется reinterpret_cast, приведение в стиле С или приведение в стиле функции
+     1>Сборка проекта "C:\Users\vika\documents\visual studio 2013\Projects\LongArithm\LongArithm\LongArithm.vcxproj" завершена (целевые объекты Build) с ошибкой.
+
+Ошибка сборки.
+
+Затраченное время: 00:00:00.74

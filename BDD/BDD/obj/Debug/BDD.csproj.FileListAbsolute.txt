@@ -1,0 +1,28 @@
+c:\users\vika\documents\visual studio 2013\Projects\BDD\BDD\bin\Debug\BDD.exe.config
+c:\users\vika\documents\visual studio 2013\Projects\BDD\BDD\bin\Debug\BDD.exe
+c:\users\vika\documents\visual studio 2013\Projects\BDD\BDD\bin\Debug\BDD.pdb
+c:\users\vika\documents\visual studio 2013\Projects\BDD\BDD\obj\Debug\BDD.csprojResolveAssemblyReference.cache
+c:\users\vika\documents\visual studio 2013\Projects\BDD\BDD\obj\Debug\BDD.Properties.Resources.resources
+c:\users\vika\documents\visual studio 2013\Projects\BDD\BDD\obj\Debug\BDD.csproj.GenerateResource.Cache
+c:\users\vika\documents\visual studio 2013\Projects\BDD\BDD\obj\Debug\BDD.exe
+c:\users\vika\documents\visual studio 2013\Projects\BDD\BDD\obj\Debug\BDD.pdb
+C:\Users\vika\documents\visual studio 2013\Projects\BDD\BDD\obj\Debug\BDD.MainPage.resources
+C:\Projects\BDD\BDD\bin\Debug\BDD.exe.config
+C:\Projects\BDD\BDD\obj\Debug\BDD.exe
+C:\Projects\BDD\BDD\obj\Debug\BDD.pdb
+C:\Projects\BDD\BDD\obj\Debug\BDD.csprojResolveAssemblyReference.cache
+C:\Projects\BDD\BDD\obj\Debug\BDD.MainPage.resources
+C:\Projects\BDD\BDD\obj\Debug\BDD.Properties.Resources.resources
+C:\Projects\BDD\BDD\obj\Debug\BDD.csproj.GenerateResource.Cache
+C:\Projects\BDD\BDD\bin\Debug\BDD.exe
+C:\Projects\BDD\BDD\bin\Debug\BDD.pdb
+E:\Projects\BDD\BDD\bin\Debug\BDD.exe.config
+E:\Projects\BDD\BDD\obj\Debug\BDD.exe
+E:\Projects\BDD\BDD\obj\Debug\BDD.pdb
+E:\Projects\BDD\BDD\bin\Debug\BDD.exe
+E:\Projects\BDD\BDD\bin\Debug\BDD.pdb
+E:\Projects\BDD\BDD\obj\Debug\BDD.csprojResolveAssemblyReference.cache
+E:\Projects\BDD\BDD\obj\Debug\BDD.MainPage.resources
+E:\Projects\BDD\BDD\obj\Debug\BDD.Properties.Resources.resources
+E:\Projects\BDD\BDD\obj\Debug\BDD.csproj.GenerateResource.Cache
+E:\Projects\BDD\BDD\obj\Debug\BDD.Help.resources

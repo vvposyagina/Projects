@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Общий">
+      <UniqueIdentifier>f6b7ec5c-5868-4032-82f1-2481c4cb4583</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Активы">
+      <UniqueIdentifier>71d1a38e-c3af-430c-928a-7e25a295f6e1</UniqueIdentifier>
+      <Extensions>bmp;fbx;gif;jpg;jpeg;tga;tiff;tif;png</Extensions>
+    </Filter>
+	<Filter Include="Содержимое">
+      <UniqueIdentifier>cb073436-917d-489b-9bfc-9cb45a69c6ef</UniqueIdentifier>
+    </Filter>
+    <Page Include="Common\StandardStyles.xaml">
+      <Filter>Общий</Filter>
+    </Page>
+    <ClInclude Include="Common\DirectXHelper.h">
+      <Filter>Общий</Filter>
+    </ClInclude>
+	<ClInclude Include="Common\StepTimer.h">
+      <Filter>Общий</Filter>
+    </ClInclude>
+    <ClInclude Include="Common\DeviceResources.h">
+      <Filter>Общий</Filter>
+    </ClInclude>
+    <ClCompile Include="Common\DeviceResources.cpp">
+      <Filter>Общий</Filter>
+    </ClCompile>
+	<ClInclude Include="Content\Sample3DSceneRenderer.h">
+      <Filter>Содержимое</Filter>
+    </ClInclude>
+    <ClInclude Include="Content\SampleFpsTextRenderer.h">
+      <Filter>Содержимое</Filter>
+    </ClInclude>
+    <ClInclude Include="Content\ShaderStructures.h">
+      <Filter>Содержимое</Filter>
+    </ClInclude>
+	<ClCompile Include="Content\Sample3DSceneRenderer.cpp">
+      <Filter>Содержимое</Filter>
+    </ClCompile>
+    <ClCompile Include="Content\SampleFpsTextRenderer.cpp">
+      <Filter>Содержимое</Filter>
+    </ClCompile>
+	<FxCompile Include="Content\SamplePixelShader.hlsl">
+      <Filter>Содержимое</Filter>
+    </FxCompile>
+    <FxCompile Include="Content\SampleVertexShader.hlsl">
+      <Filter>Содержимое</Filter>
+    </FxCompile>
+    <Image Include="Assets\Logo.png">
+      <Filter>Активы</Filter>
+    </Image>
+    <Image Include="Assets\SmallLogo.png">
+      <Filter>Активы</Filter>
+    </Image>
+    <Image Include="Assets\StoreLogo.png">
+      <Filter>Активы</Filter>
+    </Image>
+    <Image Include="Assets\SplashScreen.png">
+      <Filter>Активы</Filter>
+    </Image>
+  </ItemGroup>
+</Project>

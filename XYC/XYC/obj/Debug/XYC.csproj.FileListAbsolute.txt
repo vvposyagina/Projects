@@ -1,0 +1,6 @@
+c:\users\vika\documents\visual studio 2013\Projects\XYC\XYC\bin\Debug\XYC.exe.config
+c:\users\vika\documents\visual studio 2013\Projects\XYC\XYC\bin\Debug\XYC.exe
+c:\users\vika\documents\visual studio 2013\Projects\XYC\XYC\bin\Debug\XYC.pdb
+c:\users\vika\documents\visual studio 2013\Projects\XYC\XYC\obj\Debug\XYC.csprojResolveAssemblyReference.cache
+c:\users\vika\documents\visual studio 2013\Projects\XYC\XYC\obj\Debug\XYC.exe
+c:\users\vika\documents\visual studio 2013\Projects\XYC\XYC\obj\Debug\XYC.pdb

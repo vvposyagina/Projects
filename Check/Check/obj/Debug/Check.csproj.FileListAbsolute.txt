@@ -1,0 +1,6 @@
+c:\users\vika\documents\visual studio 2013\Projects\Check\Check\bin\Debug\Check.exe.config
+c:\users\vika\documents\visual studio 2013\Projects\Check\Check\bin\Debug\Check.exe
+c:\users\vika\documents\visual studio 2013\Projects\Check\Check\bin\Debug\Check.pdb
+c:\users\vika\documents\visual studio 2013\Projects\Check\Check\obj\Debug\Check.csprojResolveAssemblyReference.cache
+c:\users\vika\documents\visual studio 2013\Projects\Check\Check\obj\Debug\Check.exe
+c:\users\vika\documents\visual studio 2013\Projects\Check\Check\obj\Debug\Check.pdb

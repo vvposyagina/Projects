@@ -1,0 +1,6 @@
+c:\users\vika\documents\visual studio 2013\Projects\LibraryCSharp\LibraryCSharp\bin\Debug\LibraryCSharp.exe.config
+C:\Users\vika\documents\visual studio 2013\Projects\LibraryCSharp\LibraryCSharp\bin\Debug\LibraryCSharp.exe
+C:\Users\vika\documents\visual studio 2013\Projects\LibraryCSharp\LibraryCSharp\bin\Debug\LibraryCSharp.pdb
+C:\Users\vika\documents\visual studio 2013\Projects\LibraryCSharp\LibraryCSharp\obj\Debug\LibraryCSharp.csprojResolveAssemblyReference.cache
+C:\Users\vika\documents\visual studio 2013\Projects\LibraryCSharp\LibraryCSharp\obj\Debug\LibraryCSharp.exe
+C:\Users\vika\documents\visual studio 2013\Projects\LibraryCSharp\LibraryCSharp\obj\Debug\LibraryCSharp.pdb

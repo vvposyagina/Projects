@@ -1,0 +1,6 @@
+c:\users\vika\documents\visual studio 2013\Projects\BinaryTreeCSharp\BinaryTreeCSharp\bin\Debug\BinaryTreeCSharp.exe.config
+c:\users\vika\documents\visual studio 2013\Projects\BinaryTreeCSharp\BinaryTreeCSharp\bin\Debug\BinaryTreeCSharp.exe
+c:\users\vika\documents\visual studio 2013\Projects\BinaryTreeCSharp\BinaryTreeCSharp\bin\Debug\BinaryTreeCSharp.pdb
+c:\users\vika\documents\visual studio 2013\Projects\BinaryTreeCSharp\BinaryTreeCSharp\obj\Debug\BinaryTreeCSharp.csprojResolveAssemblyReference.cache
+c:\users\vika\documents\visual studio 2013\Projects\BinaryTreeCSharp\BinaryTreeCSharp\obj\Debug\BinaryTreeCSharp.exe
+c:\users\vika\documents\visual studio 2013\Projects\BinaryTreeCSharp\BinaryTreeCSharp\obj\Debug\BinaryTreeCSharp.pdb

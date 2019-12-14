@@ -1,0 +1,6 @@
+c:\users\vika\documents\visual studio 2013\Projects\ReviewGenerator\ReviewGenerator\bin\Debug\ReviewGenerator.exe.config
+c:\users\vika\documents\visual studio 2013\Projects\ReviewGenerator\ReviewGenerator\bin\Debug\ReviewGenerator.exe
+c:\users\vika\documents\visual studio 2013\Projects\ReviewGenerator\ReviewGenerator\bin\Debug\ReviewGenerator.pdb
+c:\users\vika\documents\visual studio 2013\Projects\ReviewGenerator\ReviewGenerator\obj\Debug\ReviewGenerator.csprojResolveAssemblyReference.cache
+c:\users\vika\documents\visual studio 2013\Projects\ReviewGenerator\ReviewGenerator\obj\Debug\ReviewGenerator.exe
+c:\users\vika\documents\visual studio 2013\Projects\ReviewGenerator\ReviewGenerator\obj\Debug\ReviewGenerator.pdb

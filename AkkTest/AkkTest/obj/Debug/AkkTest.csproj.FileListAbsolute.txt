@@ -1,0 +1,6 @@
+c:\users\vika\documents\visual studio 2013\Projects\AkkTest\AkkTest\bin\Debug\AkkTest.exe.config
+c:\users\vika\documents\visual studio 2013\Projects\AkkTest\AkkTest\bin\Debug\AkkTest.exe
+c:\users\vika\documents\visual studio 2013\Projects\AkkTest\AkkTest\bin\Debug\AkkTest.pdb
+c:\users\vika\documents\visual studio 2013\Projects\AkkTest\AkkTest\obj\Debug\AkkTest.csprojResolveAssemblyReference.cache
+c:\users\vika\documents\visual studio 2013\Projects\AkkTest\AkkTest\obj\Debug\AkkTest.exe
+c:\users\vika\documents\visual studio 2013\Projects\AkkTest\AkkTest\obj\Debug\AkkTest.pdb

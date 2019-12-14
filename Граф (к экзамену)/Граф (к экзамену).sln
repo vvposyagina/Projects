@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Граф (к экзамену)", "Граф (к экзамену)\Граф (к экзамену).vcxproj", "{505A3E6C-AE82-4C3E-9671-E537226EE629}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{505A3E6C-AE82-4C3E-9671-E537226EE629}.Debug|Win32.ActiveCfg = Debug|Win32
+		{505A3E6C-AE82-4C3E-9671-E537226EE629}.Debug|Win32.Build.0 = Debug|Win32
+		{505A3E6C-AE82-4C3E-9671-E537226EE629}.Release|Win32.ActiveCfg = Release|Win32
+		{505A3E6C-AE82-4C3E-9671-E537226EE629}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

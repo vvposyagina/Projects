@@ -1,0 +1,51 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="Чеки">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="НомерДоговора" type="xs:int" />
+                <xs:element name="ДатаДоговора" type="xs:dateTime" />
+                <xs:element name="Турагентство" type="xs:string" minOccurs="0" />
+                <xs:element name="ФИООператора" type="xs:string" minOccurs="0" />
+                <xs:element name="Стоимость" type="xs:int" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+          <xs:element name="ЗаписьДоговора">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="НомерЗаписиДоговора" type="xs:int" />
+                <xs:element name="НомерДоговора" type="xs:int" />
+                <xs:element name="ДатаДоговора" type="xs:dateTime" />
+                <xs:element name="Путевка" type="xs:string" minOccurs="0" />
+                <xs:element name="ЦенаПутевки" type="xs:int" minOccurs="0" />
+                <xs:element name="Количество" type="xs:int" minOccurs="0" />
+                <xs:element name="Стоимость" type="xs:int" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+      <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+        <xs:selector xpath=".//Чеки" />
+        <xs:field xpath="НомерДоговора" />
+        <xs:field xpath="ДатаДоговора" />
+      </xs:unique>
+      <xs:unique name="ЗаписьДоговора_Constraint1" msdata:ConstraintName="Constraint1" msdata:PrimaryKey="true">
+        <xs:selector xpath=".//ЗаписьДоговора" />
+        <xs:field xpath="НомерЗаписиДоговора" />
+        <xs:field xpath="НомерДоговора" />
+        <xs:field xpath="ДатаДоговора" />
+      </xs:unique>
+      <xs:keyref name="СвязьДоговора" refer="Constraint1">
+        <xs:selector xpath=".//ЗаписьДоговора" />
+        <xs:field xpath="НомерДоговора" />
+        <xs:field xpath="ДатаДоговора" />
+      </xs:keyref>
+    </xs:element>
+  </xs:schema>
+</NewDataSet>

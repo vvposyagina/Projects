@@ -1,0 +1,14 @@
+﻿Сборка начата 21.05.2015 13:11:15.
+     1>Проект "C:\Users\Admin\Documents\Visual Studio 2012\Projects\Граф (к экзамену)\Граф (к экзамену)\Граф (к экзамену).vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         D:\Distr\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\Граф (к экзамену).pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt "Граф (к экзамену).cpp"
+         Граф (к экзамену).cpp
+       Link:
+         D:\Distr\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Admin\Documents\Visual Studio 2012\Projects\Граф (к экзамену)\Debug\Граф (к экзамену).exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Admin\Documents\Visual Studio 2012\Projects\Граф (к экзамену)\Debug\Граф (к экзамену).pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Admin\Documents\Visual Studio 2012\Projects\Граф (к экзамену)\Debug\Граф (к экзамену).lib" /MACHINE:X86 Debug\stdafx.obj
+         "Debug\Граф (к экзамену).obj"
+         Граф (к экзамену).vcxproj -> C:\Users\Admin\Documents\Visual Studio 2012\Projects\Граф (к экзамену)\Debug\Граф (к экзамену).exe
+     1>Построение проекта "C:\Users\Admin\Documents\Visual Studio 2012\Projects\Граф (к экзамену)\Граф (к экзамену)\Граф (к экзамену).vcxproj" завершено (целевые объекты Build).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:01.29

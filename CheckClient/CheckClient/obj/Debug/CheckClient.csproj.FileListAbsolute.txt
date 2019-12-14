@@ -1,0 +1,5 @@
+c:\users\vika\documents\visual studio 2013\Projects\CheckClient\CheckClient\bin\Debug\CheckClient.exe.config
+c:\users\vika\documents\visual studio 2013\Projects\CheckClient\CheckClient\bin\Debug\CheckClient.exe
+c:\users\vika\documents\visual studio 2013\Projects\CheckClient\CheckClient\bin\Debug\CheckClient.pdb
+c:\users\vika\documents\visual studio 2013\Projects\CheckClient\CheckClient\obj\Debug\CheckClient.exe
+c:\users\vika\documents\visual studio 2013\Projects\CheckClient\CheckClient\obj\Debug\CheckClient.pdb

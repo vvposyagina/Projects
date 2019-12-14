@@ -1,0 +1,9 @@
+c:\users\vika\documents\visual studio 2013\Projects\EditorMaps\EditorMaps\bin\Debug\EditorMaps.exe.config
+c:\users\vika\documents\visual studio 2013\Projects\EditorMaps\EditorMaps\bin\Debug\EditorMaps.exe
+c:\users\vika\documents\visual studio 2013\Projects\EditorMaps\EditorMaps\bin\Debug\EditorMaps.pdb
+c:\users\vika\documents\visual studio 2013\Projects\EditorMaps\EditorMaps\obj\Debug\EditorMaps.csprojResolveAssemblyReference.cache
+c:\users\vika\documents\visual studio 2013\Projects\EditorMaps\EditorMaps\obj\Debug\EditorMaps.Form1.resources
+c:\users\vika\documents\visual studio 2013\Projects\EditorMaps\EditorMaps\obj\Debug\EditorMaps.Properties.Resources.resources
+c:\users\vika\documents\visual studio 2013\Projects\EditorMaps\EditorMaps\obj\Debug\EditorMaps.csproj.GenerateResource.Cache
+c:\users\vika\documents\visual studio 2013\Projects\EditorMaps\EditorMaps\obj\Debug\EditorMaps.exe
+c:\users\vika\documents\visual studio 2013\Projects\EditorMaps\EditorMaps\obj\Debug\EditorMaps.pdb

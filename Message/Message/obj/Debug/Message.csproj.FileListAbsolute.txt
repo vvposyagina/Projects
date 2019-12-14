@@ -1,0 +1,6 @@
+c:\users\vika\documents\visual studio 2013\Projects\Message\Message\bin\Debug\Message.exe.config
+c:\users\vika\documents\visual studio 2013\Projects\Message\Message\bin\Debug\Message.exe
+c:\users\vika\documents\visual studio 2013\Projects\Message\Message\bin\Debug\Message.pdb
+c:\users\vika\documents\visual studio 2013\Projects\Message\Message\obj\Debug\Message.csprojResolveAssemblyReference.cache
+c:\users\vika\documents\visual studio 2013\Projects\Message\Message\obj\Debug\Message.exe
+c:\users\vika\documents\visual studio 2013\Projects\Message\Message\obj\Debug\Message.pdb

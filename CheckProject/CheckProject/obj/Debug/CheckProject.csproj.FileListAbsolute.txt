@@ -1,0 +1,11 @@
+c:\users\vika\documents\visual studio 2013\Projects\CheckProject\CheckProject\bin\Debug\CheckProject.exe.config
+c:\users\vika\documents\visual studio 2013\Projects\CheckProject\CheckProject\obj\Debug\CheckProject.csprojResolveAssemblyReference.cache
+c:\users\vika\documents\visual studio 2013\Projects\CheckProject\CheckProject\obj\Debug\CheckProject.AddCheck.resources
+c:\users\vika\documents\visual studio 2013\Projects\CheckProject\CheckProject\obj\Debug\CheckProject.Main.resources
+c:\users\vika\documents\visual studio 2013\Projects\CheckProject\CheckProject\obj\Debug\CheckProject.Properties.Resources.resources
+c:\users\vika\documents\visual studio 2013\Projects\CheckProject\CheckProject\obj\Debug\CheckProject.csproj.GenerateResource.Cache
+c:\users\vika\documents\visual studio 2013\Projects\CheckProject\CheckProject\bin\Debug\CheckProject.exe
+c:\users\vika\documents\visual studio 2013\Projects\CheckProject\CheckProject\bin\Debug\CheckProject.pdb
+c:\users\vika\documents\visual studio 2013\Projects\CheckProject\CheckProject\obj\Debug\CheckProject.exe
+c:\users\vika\documents\visual studio 2013\Projects\CheckProject\CheckProject\obj\Debug\CheckProject.pdb
+C:\Users\vika\documents\visual studio 2013\Projects\CheckProject\CheckProject\obj\Debug\CheckProject.AddInfoCheck.resources
